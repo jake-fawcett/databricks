@@ -1,0 +1,1 @@
+Module to deploy resources required to access Storage in Unity Catalog.
